@@ -1,0 +1,11 @@
+classDiagram
+	class Types
+Types : Basic Type
+Types : Derived Data Type
+Types : Enumeration Data Type
+Types : Void Data Type
+	class Data Types
+Data Types : int, char, float, double
+Data Types : array, pointer, structure, union
+Data Types : enum
+Data Types : void
