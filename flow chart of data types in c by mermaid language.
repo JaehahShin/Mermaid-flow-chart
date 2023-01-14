@@ -1,0 +1,8 @@
+ %% Flow chart of data types in C
+ 
+graph TD;
+  Data_Types_In_C --> Basic
+  Data_Types_In_C --> Derived
+  Data_Types_In_C --> Enumeration
+  Data_Types_In_C --> Void
+ 
